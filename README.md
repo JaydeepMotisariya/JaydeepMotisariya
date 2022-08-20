@@ -2,7 +2,7 @@
     
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
-<h3 align="center">Passionate about technology and love to connect with others. Seeking challenging opportunities to improve my skills and interesting New learning.</h3>
+<h3 align="center">I am a passionate and creative full-stack software engineer based in Canada. I consider myself a proactive worker and learner, working with a team under respect and support and helping build diverse, inclusive, safe, and good workplaces. Coding is my passion, and I enjoy making beautiful, functional, and accessible websites and mobile apps. I am always eager for challenges where I can gain new skills or improve the existing ones. <br> I am always ready to take new adventure!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JaydeepMotisariya&label=Profile%20views&color=0e75b6&style=flat" alt="JaydeepMotisariya" /> </p>
 
