@@ -22,10 +22,10 @@ I'm a hands‑on software architect and tech lead focused on building reliable, 
 ## Tech Stack
 
 - Languages: Java, Kotlin, Swift, JavaScript/TypeScript
-- Mobile: Android (Jetpack, Coroutines), iOS (Swift, UIKit/SwiftUI)
+- Mobile: Android, iOS (Swift, UIKit/SwiftUI)
 - Web: React, Next.js
-- Data: SQLite, MySQL, Firebase
-- Tooling: Git, Linux, Gradle, Xcode, Node.js
+- Data: MongoDB, Postgres, SQLite, MySQL, Firebase
+- Tooling: Git, Linux, Gradle, Xcode, Node.js and many more....
 
 ## How I Work
 
